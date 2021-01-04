@@ -1,0 +1,3 @@
+.video__iframe:not(:last-of-type) { /* :not(:last-of-type) or :first-of-type ??? */
+  margin-right: 20px;
+}
